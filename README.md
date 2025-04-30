@@ -1,6 +1,6 @@
 # Chrome Extension with Vite + PDF Generation
 
-This is a Chrome Extension that handles form inputs and generates PDFs using `pdf-lib`.
+This is a Chrome Extension that handles form inputs and generates PDFs.
 
 ---
 
